@@ -12,4 +12,6 @@ Languages  :  Python & Node JS
 ```
 
 [Join 2 Create Discord Bot](https://github.com/vkecodes/Join-2-Create) | Simple Discord bot that allows you to create voice channels by joining one
+[Blacklisted Words Bot](https://github.com/vkecodes/Triggered-Words) | Simple bot that blocks words & timeout the user, also has triggered responses.
+
 
