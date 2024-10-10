@@ -11,6 +11,7 @@ Languages  :  Python & Node JS
   Discord  :  sexy.vke (1286082906514522176)
 ```
 
-[Join 2 Create Discord Bot](https://github.com/vkecodes/Join-2-Create) | Simple Discord bot that allows you to create voice channels by joining one\n[Blacklisted Words Bot](https://github.com/vkecodes/Triggered-Words) | Simple bot that blocks words & timeout the user, also has triggered responses.
+</a>[Join 2 Create Discord Bot](https://github.com/vkecodes/Join-2-Create) | Simple Discord bot that allows you to create voice channels by joining one</a>
+</a>[Blacklisted Words Bot](https://github.com/vkecodes/Triggered-Words) | Simple bot that blocks words & timeout the user, also has triggered responses.</a>
 
 
